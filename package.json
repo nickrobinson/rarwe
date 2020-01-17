@@ -51,5 +51,8 @@
   },
   "engines": {
     "node": "8.* || >= 10.*"
+  },
+  "dependencies": {
+    "pinkie-promise": "^2.0.2"
   }
 }
